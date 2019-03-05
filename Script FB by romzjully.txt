@@ -1,0 +1,15 @@
+hallo ini adalah script hack facebook
+secara random, namun bangkit.
+jangan lupa untuk subscribe nya ya ...
+by romz jully
+
+$ apt update && apt upgrade
+$ apt install python2
+$ pkg install mechanize
+$ pkg instal git
+$ gitclone https://github.com/hnov7/mbf
+$ cd mbf
+$ python2 mbf py
+
+God luck temen temen ...
+semoga harimu menyenangkan ..
